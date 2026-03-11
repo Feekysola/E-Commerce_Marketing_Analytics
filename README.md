@@ -29,7 +29,7 @@ This project aimed to:
 ## 🔍 Dashboard Deep-Dive: Page-by-Page Insights
 
 ### 1. Executive Overview
-![Executive Overview Dashboard](./Executive_Overview_Dashboard.png)
+![Executive Overview Dashboard](./dashboard.png/Executive%20Overview%20Dashboard.png)
 
 **Strategic Insights:**
 * **Revenue Inconsistency:** Data highlights that traffic surges do not always correlate with revenue spikes, proving that acquisition volume is a secondary metric to conversion efficiency.
@@ -41,7 +41,7 @@ This project aimed to:
 ---
 
 ### 2. Funnel Analysis (The 65% Bottleneck)
-![Funnel Analysis Dashboard](./Funnel_dashboard_image.png)
+![Funnel Analysis Dashboard](./dashboard.png/Funnel%20dashboard%20image.png)
 
 **Strategic Insights:**
 * **The 65% Conversion Leak:** The most critical finding is the **65% drop-off** at the "Product View to Add to Cart" stage. This indicates that while users are interested in the product, there is extreme friction in the consideration phase.
@@ -54,7 +54,7 @@ This project aimed to:
 ---
 
 ### 3. Channel Performance Analysis
-![Channel Performance Dashboard](./Channel_performance_image.png)
+![Channel Performance Dashboard](./dashboard.png/Channel%20performance%20image.png)
 
 **Strategic Insights:**
 * **Quality Disparity:** **Organic Search** and **Direct** channels show a 3x higher conversion rate than Paid Social, which brings in mass volume but very low intent.
@@ -66,8 +66,7 @@ This project aimed to:
 ---
 
 ### 4. Churn Analysis & Retention
-![Churn Analysis Dashboard](./Churn_Analysis_Image.png)
-
+![Churn Analysis Dashboard](./dashboard.png/Churn%20Analysis%20Image.png)
 **Strategic Insights:**
 * **The 45-Day Churn Threshold:** Users who do not engage with the brand within **45 days** of their initial purchase have an 80% probability of permanent churn.
 * **Promo Sensitivity:** Customers acquired through heavy discounting demonstrate the highest churn rates, indicating they are "price-sensitive" rather than "brand-loyal."
